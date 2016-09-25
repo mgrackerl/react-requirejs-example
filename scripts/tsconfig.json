@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "amd",
+        "jsx": "react",
+        "rootDir": ".",
+        "declaration": false,
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "removeComments": false
+    },
+    "buildOnSave": true
+    // "exclude": [
+    //     "node_modules"
+    // ]
+}
